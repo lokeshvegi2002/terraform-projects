@@ -1,0 +1,10 @@
+# Terraform folders and logs
+.terraform/
+*.tfstate.backup
+crash.log
+
+# IDE junk
+.vscode/
+.idea/
+*.swp
+.DS_Store
