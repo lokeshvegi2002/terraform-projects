@@ -1,6 +1,4 @@
 # Terraform folders and logs
 .terraform/
-*.tfstate.backup
 .terraform.lock.hcl
 crash.log
-
