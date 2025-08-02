@@ -1,10 +1,6 @@
 # Terraform folders and logs
 .terraform/
 *.tfstate.backup
+.terraform.lock.hcl
 crash.log
 
-# IDE junk
-.vscode/
-.idea/
-*.swp
-.DS_Store

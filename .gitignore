@@ -1,0 +1,5 @@
+# IDE junk
+.vscode/
+.idea/
+*.swp
+.DS_Store
