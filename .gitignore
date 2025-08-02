@@ -3,3 +3,6 @@
 .idea/
 *.swp
 .DS_Store
+
+# Git cleanup tools
+bfg.jar
